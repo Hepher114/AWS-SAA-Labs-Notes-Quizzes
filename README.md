@@ -1,4 +1,4 @@
-# AWS-SAA-Labs-Notes-Quizzes
+
 This repository contains my personal study materials for the AWS Certified Solutions Architect - Associate (SAA-C03) exam. It includes:
 Detailed notes on AWS services and concepts
 Quizzes and practice questions to test knowledge
